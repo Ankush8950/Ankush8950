@@ -1,6 +1,6 @@
 ### Hi there, i'm Ankush kumar  👋
 
-Here are some ideas to get you started:
+## -Talking about Personal Stuffs!
 
 - 🔭 I’m currently working on a few react  project.
 - 🌱 I’m currently learning ...
