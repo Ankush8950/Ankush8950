@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on a few react  projact.
+- 🔭 I’m currently working on a few react  project.
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 📫 How to reach me: ankushku72@gmail.com
