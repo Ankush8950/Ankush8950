@@ -13,6 +13,8 @@
 - [![Linkedin](https://img.shields.io/badge/Linkedin-4285F4?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ankush-kumar-275129176/)
 [![instagram](https://img.shields.io/badge/instagram-4285F4?style=for-the-badge&logo=instagram&logoColor=#5851DB)](https://www.instagram.com/ankushkumar7282/)
 [![instagram](https://img.shields.io/badge/portfolio-4285F4?style=for-the-badge&logo=portfolio&logoColor=#5851DB)](https://devloperankush.tk/)
+[![instagram](https://img.shields.io/badge/hashnode-4285F4?style=for-the-badge&logo=hashnode&logoColor=#5851DB)](https://hashnode.com/@Ankush8950)
+
 
 
 
