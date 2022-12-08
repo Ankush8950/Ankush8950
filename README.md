@@ -21,5 +21,5 @@
 
 # - My github stats:
 
-![Ankush](https://github-readme-stats.vercel.app/api?username=Ankush8950&hide=contribs,prs)<br>
+![Ankush](https://github-readme-stats.vercel.app/api?username=Ankush8950&hide=contribs,prs) <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankush8950&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
